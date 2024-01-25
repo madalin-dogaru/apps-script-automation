@@ -1,5 +1,5 @@
 /*
- * This script updates the 'sheet_1' sheet in Google Sheets with 
+ * Will update the 'sheet_1' sheet in Google Sheets with 
  * MITRE TTP data. It first reads technique data from the 'sheet_2' sheet, 
  * structuring it for ease of access, and then cross-references this data with the technique IDs
  * listed in the 'sheet_1' sheet. It updates the analysis sheet with values 
